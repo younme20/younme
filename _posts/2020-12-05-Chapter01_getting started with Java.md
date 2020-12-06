@@ -56,9 +56,9 @@ share: false
 
 ## JDK 설치순서
 ---
-    1. 사이트 접속하여 모든 쿠키 수락
-        - https://www.oracle.com/java/technologies/javase-downloads.html
-    2. 라이센스 동의, 자신의 맞는 운영체제(64bit OR 32bit) 버전 클릭
+    1. [https://www.oracle.com/java/technologies/javase-downloads.html] 접속
+    2. 사이트 접속하여 모든 쿠키 수락
+    3. 라이센스 동의, 자신의 맞는 운영체제(64bit OR 32bit) 버전 클릭
 
 
 
@@ -96,6 +96,6 @@ share: false
     Java API가 제공하는 기능에 대한 상세한 정보를 제공
 
 - API 문서 링크
-   https://docs.oracle.com/javase/8/docs/api/index.html?help-doc.html
+   [https://docs.oracle.com/javase/8/docs/api/index.html?help-doc.html]
  
 
