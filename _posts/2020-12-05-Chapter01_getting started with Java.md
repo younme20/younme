@@ -55,6 +55,7 @@ share: false
 
 
 ## JDK 설치순서
+---
     1. 사이트 접속하여 모든 쿠키 수락
         - https://www.oracle.com/java/technologies/javase-downloads.html
     2. 라이센스 동의, 자신의 맞는 운영체제(64bit OR 32bit) 버전 클릭
@@ -81,7 +82,6 @@ share: false
         }
     }
      ```
-
 
 
 ## 7. 자바 API 란?
